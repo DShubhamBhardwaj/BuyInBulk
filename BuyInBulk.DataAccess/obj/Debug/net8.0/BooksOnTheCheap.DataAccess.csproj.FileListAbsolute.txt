@@ -1,0 +1,17 @@
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\bin\Debug\net8.0\BooksOnTheCheap.DataAccess.deps.json
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\bin\Debug\net8.0\BooksOnTheCheap.DataAccess.dll
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\bin\Debug\net8.0\BooksOnTheCheap.DataAccess.pdb
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\bin\Debug\net8.0\BooksOnTheCheap.Models.dll
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\bin\Debug\net8.0\BooksOnTheCheap.Utility.dll
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\bin\Debug\net8.0\BooksOnTheCheap.Models.pdb
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\bin\Debug\net8.0\BooksOnTheCheap.Utility.pdb
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\BooksOnTheCheap.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\BooksOnTheCheap.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\BooksOnTheCheap.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\BooksOnTheCheap.DataAccess.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\BooksOnTheCheap.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\BooksOnT.231268C6.Up2Date
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\BooksOnTheCheap.DataAccess.dll
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\refint\BooksOnTheCheap.DataAccess.dll
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\BooksOnTheCheap.DataAccess.pdb
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.DataAccess\obj\Debug\net8.0\ref\BooksOnTheCheap.DataAccess.dll

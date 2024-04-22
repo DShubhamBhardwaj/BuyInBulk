@@ -1,0 +1,12 @@
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\bin\Debug\net8.0\BooksOnTheCheap.Utility.deps.json
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\bin\Debug\net8.0\BooksOnTheCheap.Utility.dll
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\bin\Debug\net8.0\BooksOnTheCheap.Utility.pdb
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\BooksOnTheCheap.Utility.csproj.AssemblyReference.cache
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\BooksOnTheCheap.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\BooksOnTheCheap.Utility.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\BooksOnTheCheap.Utility.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\BooksOnTheCheap.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\BooksOnTheCheap.Utility.dll
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\refint\BooksOnTheCheap.Utility.dll
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\BooksOnTheCheap.Utility.pdb
+C:\Users\Shubham\source\repos\BooksOnTheCheap\BooksOnTheCheap.Utility\obj\Debug\net8.0\ref\BooksOnTheCheap.Utility.dll
