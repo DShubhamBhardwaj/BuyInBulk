@@ -69,7 +69,31 @@ Update-Database
 
 4. Use the platform to browse and purchase products in bulk.
 
+## Screenshots
 
+- Landing Page \
+![Landing Page](https://github.com/DShubhamBhardwaj/BuyInBulk/blob/master/ProjectScreenshots/LandingPage.png)
+
+- Product Details Page \
+![Product Details Page](https://github.com/DShubhamBhardwaj/BuyInBulk/blob/master/ProjectScreenshots/ProductInfoPage.png)
+
+- Cart Page \
+![Cart Page](https://github.com/DShubhamBhardwaj/BuyInBulk/blob/master/ProjectScreenshots/cartPage.png)
+
+- Customer Information Page \
+![Customer Information Page](https://github.com/DShubhamBhardwaj/BuyInBulk/blob/master/ProjectScreenshots/OrderPlacement.png)
+
+- Stripe Integration \
+![Stripe Integration](https://github.com/DShubhamBhardwaj/BuyInBulk/blob/master/ProjectScreenshots/StripeIntegration.png)
+
+- Admin Screen \
+![Admin Screen](https://github.com/DShubhamBhardwaj/BuyInBulk/blob/master/ProjectScreenshots/AdminScreenContent.png)
+
+- Add Product Admin Screen
+![Add Product Admin Screen](https://github.com/DShubhamBhardwaj/BuyInBulk/blob/master/ProjectScreenshots/ProductUpsert.png)
+
+- User Authentication\
+![USer Authentication](https://github.com/DShubhamBhardwaj/BuyInBulk/blob/master/ProjectScreenshots/UserAuthentication.png)
 
 ## Acknowledgements
 
