@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuyInBulk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+560df1b57e46e868f3ff0f7ea845c78b59058e7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuyInBulk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuyInBulk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

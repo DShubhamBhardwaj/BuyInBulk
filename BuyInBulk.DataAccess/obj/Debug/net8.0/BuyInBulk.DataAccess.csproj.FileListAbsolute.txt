@@ -32,3 +32,4 @@ C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk.DataAccess\obj\Debug\net8.0\Bu
 C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk.DataAccess\obj\Debug\net8.0\refint\BuyInBulk.DataAccess.dll
 C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk.DataAccess\obj\Debug\net8.0\BuyInBulk.DataAccess.pdb
 C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk.DataAccess\obj\Debug\net8.0\ref\BuyInBulk.DataAccess.dll
+C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk.DataAccess\obj\Debug\net8.0\BuyInBulk.DataAccess.sourcelink.json

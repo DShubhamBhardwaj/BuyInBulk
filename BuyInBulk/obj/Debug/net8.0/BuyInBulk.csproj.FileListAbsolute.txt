@@ -588,3 +588,4 @@ C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk\obj\Debug\net8.0\refint\BuyInB
 C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk\obj\Debug\net8.0\BuyInBulk.pdb
 C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk\obj\Debug\net8.0\BuyInBulk.genruntimeconfig.cache
 C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk\obj\Debug\net8.0\ref\BuyInBulk.dll
+C:\Users\Shubham\source\repos\BuyInBulk\BuyInBulk\obj\Debug\net8.0\BuyInBulk.sourcelink.json
